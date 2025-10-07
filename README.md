@@ -105,7 +105,7 @@ Tests are organized into difficulty tiers:
 
 ## License & Academic Integrity
 
-This implementation is based on course-assigned specifications. Redistribution or reuse outside educational purposes is not permitted. Tests belong to Jim Skrentny & Deb Deppeler 2020-2024
+This implementation is based on course-assigned specifications. Redistribution or reuse outside educational purposes is not permitted.
 
 ---
 
